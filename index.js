@@ -3,5 +3,6 @@ function sayHey(){
 }
 
 function sayHeyFriend(name){
+  debugger;
   return `Hey, ${name}!`
 }
